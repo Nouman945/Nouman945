@@ -22,7 +22,7 @@
 
 
 <a href="">
-  <img align="Center" margin-left="1000" height = "350" widht="650" align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=gruvbox&https://github.com/DenverCoder1/github-readme-streak-stats" />
+  <img align="Center" height = "350" widht="700" align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=gruvbox&https://github.com/DenverCoder1/github-readme-streak-stats" />
 </a>
 
 
