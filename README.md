@@ -13,3 +13,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=dark)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nouman945)](https://github.com/anuraghazra/github-readme-stats)
