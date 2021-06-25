@@ -3,23 +3,12 @@
 
 I'm a Developer, Teacher and Researcher!
 
-🔭 I’m currently working as Full Stack Developer.
-🌱 I’m currently learning Competitive-coding, large scale distributed systems design and backend engineering.
+🔭 I’m currently Learning Full Stack Developement.
+🌱 I’m currently learning Competitive-coding, backend engineering.
 👯 I’m looking to collaborate with other content creators and developers.
-📢 Love to teach and inspire students. Taught over more then 1k students.
-🥅 2021 Goals: Contribute more to Open Source projects.
-
-
-### Hi there 👋, Hi, name is Nouman
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+📢 Love to teach and inspire.
+🥅 2021 Goals: Contribute more to Open Source projects and Start a Youtube Channel.
 
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=radical)
