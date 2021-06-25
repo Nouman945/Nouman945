@@ -1,8 +1,6 @@
 ### Hi there, I'm Nouman 👋
 
-<br></br>
-
-I'm a Developer, Teacher and Researcher!
+# I'm a Developer, Teacher and Researcher!
 
 * 🔭 I’m currently Learning Full Stack Developement.
 * 🌱 I’m currently learning Competitive-coding, backend engineering.
