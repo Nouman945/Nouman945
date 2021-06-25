@@ -12,11 +12,11 @@
 # ⚙️ GitHub Analytics
 
 <a href="">
-  <img height="195" align="Left" src="https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=gruvbox" />
+  <img  card_width= align="Left" src="https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=gruvbox" />
 </a>
 
 <a href="">
-  <img height="195" align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman945&layout=compact&theme=gruvbox&langs_count=10&https://github.com/anuraghazra/github-readme-stats" />
+  <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman945&layout=compact&theme=gruvbox&langs_count=10&https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
 <br>
