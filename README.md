@@ -17,7 +17,7 @@
 
 
 <a href="">
-  <img height = "200" align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman945&theme=blue-green&https://github.com/anuraghazra/github-readme-stats" />
+  <img height = "190" width="100" align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman945&theme=blue-green&https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
 <a href="">
