@@ -15,8 +15,11 @@
   <img align="Top" src="https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="Top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&https://github.com/anuraghazra/github-readme-stats" />
+  <img align="Top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman945&layout=compact&https://github.com/anuraghazra/github-readme-stats" />
 </a>
+
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman945&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # 🤝🏻 Connect with Me
 
