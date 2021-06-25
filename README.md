@@ -15,5 +15,5 @@
   <img align="Top" src="https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="Top" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nouman945" />
+  <img align="Top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&https://github.com/anuraghazra/github-readme-stats" />
 </a>
