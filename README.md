@@ -20,12 +20,12 @@
 
 # 🤝🏻 Connect with Me
 
-[![alt text][1.1]]
-[![alt text][2.1]]
-[![alt text][3.1]]
-[![alt text][4.1]]
-[![alt text][5.1]]
-[![alt text][6.1]]
+![alt text][1.1]
+![alt text][2.1]
+![alt text][3.1]
+![alt text][4.1]
+![alt text][5.1]
+![alt text][6.1]
 
 <!-- icons with padding -->
 
