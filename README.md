@@ -17,11 +17,11 @@
 
 
 <a href="">
-  <img height = "190" align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman945&theme=blue-green&https://github.com/anuraghazra/github-readme-stats" />
+  <img height = "195" align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman945&theme=blue-green&https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
 <a href="">
-  <img align="Top" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=blue-green&https://github.com/DenverCoder1/github-readme-streak-stats" />
+  <img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=blue-green&https://github.com/DenverCoder1/github-readme-streak-stats" />
 </a>
 
 
