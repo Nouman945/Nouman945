@@ -11,4 +11,4 @@ I'm a Developer, Teacher and Researcher!
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=dark)
