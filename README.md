@@ -12,11 +12,11 @@
 # ⚙️ GitHub Analytics
 
 <a href="">
-  <img align="Top" src="https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=gruvbox" />
+  <img align="Left" src="https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=gruvbox" />
 </a>
 
 <a href="">
-  <img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=blue-green&https://github.com/DenverCoder1/github-readme-streak-stats" />
+  <img align="Right" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=blue-green&https://github.com/DenverCoder1/github-readme-streak-stats" />
 </a>
 
 <a href="">
