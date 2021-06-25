@@ -9,4 +9,7 @@
 * 🥅 2021 Goals: Contribute more to Open Source projects and Start a Youtube Channel.
 
 
+# ⚙️ GitHub Analytics
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=dark)
