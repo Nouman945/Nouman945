@@ -7,7 +7,7 @@
 * 👯 I’m looking to collaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
 * 🥅 2021 Goals: Contribute more to Open Source projects and Start a Youtube Channel.
-* <img align="Center" width="420" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" /> Currently Learning MERN🤯 and working on improving my Data Structures and Algorithm skills👨‍💻.
+* 👨‍💻 Currently Learning MERN🤯 and working on improving my Data Structures and Algorithm skills.
 
 # ⚙️ GitHub Analytics
 
