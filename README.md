@@ -15,7 +15,6 @@
   <img align="Left" src="https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=gruvbox" />
 </a>
 
-
 <a href="">
   <img height = "195" align="Center" src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=blue-green&https://github.com/anuraghazra/github-readme-stats" />
 </a>
