@@ -16,7 +16,7 @@
 </a>
 
 <a href="">
-  <img align="Right" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=blue-green&https://github.com/DenverCoder1/github-readme-streak-stats" />
+  <img align="Top" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=blue-green&https://github.com/DenverCoder1/github-readme-streak-stats" />
 </a>
 
 <a href="">
