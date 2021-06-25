@@ -12,7 +12,7 @@
 # ⚙️ GitHub Analytics
 
 <a href="">
-  <img card_width="300" align="Left" src="https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=gruvbox" />
+  <img card_width="250" align="Left" src="https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=gruvbox" />
 </a>
 
 <a href="">
