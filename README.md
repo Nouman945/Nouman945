@@ -18,7 +18,10 @@
 <a href="">
   <img height = "195" align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman945&layout=compact&theme=gruvbox&langs_count=8&https://github.com/anuraghazra/github-readme-stats" />
 </a>
+
 <br>
+</br>
+
 <a href="">
   <img height="300" width="950" align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=gruvbox&https://github.com/DenverCoder1/github-readme-streak-stats" />
 </a>
