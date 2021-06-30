@@ -11,18 +11,18 @@
 
 # ⚙️ GitHub Analytics
 
-<a href="https://github.com/Nouman945/Nouman945">
+<a href="https://github.com/Nouman945">
   <img align="Center" width="420" src="https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/Nouman945/Nouman945">
+<a href="https://github.com/Nouman945">
   <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman945&layout=compact&theme=gruvbox&langs_count=10&https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
 <br>
 </br>
 
-<a href="https://github.com/Nouman945/Nouman945">
+<a href="https://github.com/Nouman945">
   <img height="300" width="780" align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=gruvbox&https://github.com/DenverCoder1/github-readme-streak-stats" />
 </a>
 
