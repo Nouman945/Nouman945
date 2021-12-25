@@ -2,8 +2,8 @@
 
 ### I'm a Developer, Student and Researcher!
 
-* 🔭 I’m currently Learning Computer Vision Full Stack Developement.
-* 🌱 I’m currently learning Competitive-coding and backend engineering.
+* 🔭 I’m currently Learning Computer Vision and Full Stack Developement.
+* 🌱 I’m currently doing Competitive-coding and backend engineering.
 * 👯 I’m looking to collaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
 * 🥅 2021 Goals: Contribute more to Open Source projects and Start a Youtube Channel.
