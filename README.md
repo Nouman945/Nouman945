@@ -1,6 +1,6 @@
 # Hi there, I'm Nouman 👋
 
-### I'm a Developer and Researcher!
+### I'm a Developer & Researcher!
 
 * 🔭 I’m currently Learning Computer Vision and Full Stack Developement.
 * 🌱 I’m currently doing Competitive-coding and backend engineering.
