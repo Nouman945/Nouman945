@@ -6,8 +6,8 @@
 * 🌱 I’m currently doing Competitive-coding and backend engineering.
 * 👯 I’m looking to collaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
-* 🥅 2021 Goals: Contribute more to Open Source projects and Start a Youtube Channel.
-* 👨‍💻 Currently Learning Django 🤯 and working on improving my Data Structures and Algorithm skills.
+* 🥅 2022 Goal: Start a Youtube Channel.
+* 👨‍💻 Currently Doing Django with Docker🤯 and working on improving Data Structures and Algorithm skills.
 
 # ⚙️ GitHub Analytics
 
