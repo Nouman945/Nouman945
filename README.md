@@ -81,8 +81,8 @@
       </td>
   </tr>
   <tr>
-      <td align='center' width="190">
-          <img src="https://cdn-images-1.medium.com/max/1200/1*kqpVTzo8b0e2oKdOjWQxZA.png" width="60">
+      <td align='center'>
+          <img src="https://cdn-images-1.medium.com/max/1200/1*kqpVTzo8b0e2oKdOjWQxZA.png">
       </td>
       <td align='center'>
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png">
