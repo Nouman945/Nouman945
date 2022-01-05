@@ -35,7 +35,7 @@
 <a href="https://www.instagram.com/_nouman_r">![Nouman Rasheed](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 
-<!-- # 💻 Tech Stack
+# 💻 Tech Stack
 
 
 | <img alt ="Python Icon " src="https://camo.githubusercontent.com/a36bec52eb8c614228aed15db917d517618655a13bed224ce4b6f78cd00b8fbc/68747470733a2f2f7777772e6a696e672e666d2f636c6970696d672f66756c6c2f35332d3533373637305f707974686f6e2d706e672d66696c652d707974686f6e2d6c6f676f2d706e672e706e67" height="90" > | <img alt ="Django Icon " src="https://camo.githubusercontent.com/985dacf7c531ee3cc64599c1b461aeba1ea161061a02081c8c4fc6308ee3bb8a/68747470733a2f2f7777772e646a616e676f70726f6a6563742e636f6d2f6d2f696d672f6c6f676f732f646a616e676f
