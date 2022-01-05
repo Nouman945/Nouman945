@@ -30,8 +30,8 @@
 
 <table width="100">
   <tr>
-      <td align='center'>
-          <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
+      <td align='center' width="190">
+          <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60">
       </td>
       <td align='center' width="190">
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
@@ -47,8 +47,8 @@
       </td>
   </tr>
   <tr>
-      <td align='center'>
-          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+      <td align='center' width="190">
+          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="60">
       </td>
         <td align='center'>
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
@@ -64,8 +64,8 @@
       </td>
   </tr>
   <tr>
-      <td align='center'>
-          <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" >
+      <td align='center' width="190">
+          <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" width="60">
       </td>
         <td align='center'>
           <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
@@ -81,8 +81,8 @@
       </td>
   </tr>
   <tr>
-      <td align='center'>
-          <img src="https://cdn-images-1.medium.com/max/1200/1*kqpVTzo8b0e2oKdOjWQxZA.png">
+      <td align='center' width="190">
+          <img src="https://cdn-images-1.medium.com/max/1200/1*kqpVTzo8b0e2oKdOjWQxZA.png" width="60">
       </td>
       <td align='center'>
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png">
