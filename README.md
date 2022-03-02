@@ -2,12 +2,12 @@
 
 ### I'm a Developer & Researcher!
 
-* 🔭 I’m currently Learning Computer Vision and Full Stack Developement.
+* 🔭 Learning and Advancing in Computer Vision and Full Stack Developement.
 * 🌱 I’m currently doing Competitive-coding and backend engineering.
 * 👯 I’m looking to collaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
 * 🥅 2022 Goal: Start a Youtube Channel.
-* 👨‍💻 Currently Doing Django with Docker🤯 and working on improving Data Structures and Algorithm skills.
+* 👨‍💻 Currently Doing Django with DevOps🤯
 
 # ⚙️ GitHub Analytics
 
