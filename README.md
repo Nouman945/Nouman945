@@ -36,8 +36,8 @@
       <td align='center' width="190">
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
       </td>
-      <td align='center' width="190">
-          <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+      <td align='center'>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
       </td>
       <td align='center' width="190">
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
@@ -71,7 +71,7 @@
           <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
       </td>
         <td align='center'>
-          <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
+          <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
       </td>
         <td align='center'>
           <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
@@ -80,24 +80,6 @@
           <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
       </td>
   </tr>
-  <tr>
-      <td align='center'>
-          <img src="https://cdn-images-1.medium.com/max/1200/1*kqpVTzo8b0e2oKdOjWQxZA.png">
-      </td>
-      <td align='center'>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png">
-      </td>
-      <td align='center'>
-          <img src="https://miro.medium.com/max/600/1*usQX20oLxChIAupsuRi7GQ.png">
-      </td>
-        <td align='center'>
-          <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
-      </td>
-      <td align='center'>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
-      </td>
-  </tr>
-    
 </table>
 
 # 🤝🏻 Connect with Me
