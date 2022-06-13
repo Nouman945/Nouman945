@@ -2,11 +2,11 @@
 
 ### I'm a Developer & Researcher!
 
-* 🔭 Learning and Advancing in Computer Vision.
+* 👨‍💻 Working and Advancing in Computer Vision.
 * 🌱 I’m doing Competitive-coding and backend engineering.
 * 👯 I’m looking to collaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
-* 👨‍💻 Currently Doing Django with DevOps.
+* 🔭 Learning Django & DevOps.
 
 # ⚙️ GitHub Analytics
 
