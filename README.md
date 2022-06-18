@@ -3,8 +3,8 @@
 ### I'm a Developer & Researcher!
 
 * 👨‍💻 Working and Advancing in Computer Vision.
-* 🌱 I’m doing Competitive-coding and backend engineering.
-* 👯 I’m looking to collaborate with other content creators and developers.
+* 🌱 Competitive-coding and backend engineering.
+* 👯 Looking to colaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
 * 🔭 Learning Django & DevOps.
 
