@@ -22,7 +22,7 @@
 </br>
 
 <a href="https://github.com/Nouman945">
-  <img height="300" width="800" align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=algolia&https://github.com/DenverCoder1/github-readme-streak-stats" />
+  <img height="300" width="780" align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=algolia&https://github.com/DenverCoder1/github-readme-streak-stats" />
 </a>
 
 <h2><i>💻 Tech Stack</i></h2>
