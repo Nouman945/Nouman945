@@ -36,7 +36,7 @@
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
       </td>
       <td align='center'>
-          <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png">
+          <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow-logo.png">
       </td>
       <td align='center' width="190">
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
