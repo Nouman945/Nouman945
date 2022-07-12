@@ -18,7 +18,6 @@
   <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman945&layout=compact&theme=algolia&langs_count=10&https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
-<br>![kisspng-tensorflow-jupyter-kubernetes-machine-learning-ipy-5af1005dbe4548 8707574715257437097794](https://user-images.githubusercontent.com/50593062/178408002-539d198c-e9e7-4cb6-9b94-6c1369a9708b.png)
 
 </br>
 
@@ -37,7 +36,7 @@
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
       </td>
       <td align='center'>
-          <img src="https://mpng.subpng.com/20180507/obq/kisspng-tensorflow-jupyter-kubernetes-machine-learning-ipy-5af1005d8668b2.4405374715257437095506.jpg">
+          <img src="https://user-images.githubusercontent.com/50593062/178408002-539d198c-e9e7-4cb6-9b94-6c1369a9708b.png">
       </td>
       <td align='center' width="190">
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
