@@ -6,7 +6,7 @@
 * 🌱 Competitive-coding and backend engineering.
 * 👯 Looking to colaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
-* 🔭 Learning Django and DevOps.
+* 🔭 Web Development Django and Learning DevOps.
 
 # ⚙️ GitHub Analytics
 
