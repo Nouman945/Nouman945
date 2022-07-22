@@ -18,7 +18,6 @@
   <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman945&layout=compact&theme=algolia&langs_count=10&https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
-
 </br>
 
 <a href="https://github.com/Nouman945">
@@ -81,7 +80,7 @@
   </tr>
 </table>
 
-# 🤝🏻 Connect with Me
+# 🤝🏻 Let's Connect
 
 <a href="mailto:muhmmadnouman945@gmail.com">![muhmmadnouman945@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/nouman-rasheed-5a003b157">![Nouman Rasheed](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
