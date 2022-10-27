@@ -77,7 +77,9 @@
       <td align='center'>
           <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
       </td>
-      <td align='center'>
+  </tr>
+  <tr>
+          <td align='center'>
           <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" >
       </td>
   </tr>
