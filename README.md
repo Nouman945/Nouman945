@@ -80,7 +80,7 @@
   </tr>
   <tr>
           <td align='center'>
-          <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" >
+          <img height="300" width="780" src="https://templates.images.credential.net/16590187933301617801540872729153.png" >
       </td>
   </tr>
 </table>
