@@ -1,4 +1,4 @@
-# Hi there, I'm Nouman 👋
+# Hi there, I'm Nouman Rasheed👋
 
 ### I'm a Developer & Researcher!
 
