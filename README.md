@@ -2,7 +2,7 @@
 
 ### I'm a Developer & Researcher!
 
-* 👨‍💻 Working and Advancing in Computer Vision.
+* 👨‍💻 Working and Advancing in Computer Vision & NLP.
 * 🌱 Competitive-coding and backend engineering.
 * 👯 Looking to colaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
