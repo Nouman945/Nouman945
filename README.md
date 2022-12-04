@@ -6,7 +6,7 @@
 * 🌱 Competitive-coding and backend engineering.
 * 👯 Looking to colaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
-* 🔭 I’m currently expanding my knowledge in Data Engineering and DevOps.
+* 🔭 Expanding my knowledge in Data Engineering and DevOps.
 
 # ⚙️ GitHub Analytics
 
