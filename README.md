@@ -85,6 +85,9 @@
              <td align='center'>
           <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
     </td>
+        <td align='center'>
+        <img src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" >
+    </td>
   </tr>
 </table>
 
