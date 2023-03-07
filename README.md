@@ -80,7 +80,7 @@
   </tr>
   <tr>
       <td align='center'>
-          <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" >
+          <img height="100" width="100" src="https://templates.images.credential.net/16590187933301617801540872729153.png" >
       </td>
              <td align='center'>
           <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
