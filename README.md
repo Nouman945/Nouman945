@@ -80,13 +80,13 @@
   </tr>
   <tr>
       <td align='center'>
-          <img height="100" width="100" src="https://templates.images.credential.net/16590187933301617801540872729153.png" >
+          <img height="auto" width="60%" src="https://templates.images.credential.net/16590187933301617801540872729153.png" >
       </td>
              <td align='center'>
-          <img height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
+          <img height="auto" width="60%" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
     </td>
         <td align='center'>
-        <img height="auto" width="60%"src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" >
+        <img height="auto" width="60%" src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" >
     </td>
   </tr>
 </table>
