@@ -79,8 +79,11 @@
       </td>
   </tr>
   <tr>
-          <td align='center'>
+      <td align='center'>
           <img height="100" width="100" src="https://templates.images.credential.net/16590187933301617801540872729153.png" >
+      </td>
+        <td align='center'>
+          <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
       </td>
   </tr>
 </table>
