@@ -35,8 +35,7 @@
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
       </td>
       <td align='center'>
-          <img src="https://camo.githubusercontent.com/ee8796ce543b111e17e34a70b79843579548835dce5f0ba5bf8f8b2181c59ceb/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65352f54656e736f72466c6f775f4c6f676f5f776974685f746578742e706e67">
-      </td>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
       <td align='center' width="190">
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
       </td>
