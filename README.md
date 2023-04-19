@@ -1,6 +1,6 @@
 # Hi there, I'm Nouman Rasheed 👋
 
-### I'm a Developer and Researcher!
+### I'm a Developer & Researcher!
 
 * 👨‍💻 Working & Advancing in Computer Vision & NLP.
 * 🌱 Competitive-coding and backend engineering.
