@@ -8,7 +8,7 @@
 * 📢 Love to teach and inspire.
 * 🔭 Expanding my knowledge in Data Engineering and DevOps.
 
-# Checkout my [Recent](https://github.com/Nouman945/Projects) Projects
+## 👨‍💻  Checkout my recent Projects [here](https://github.com/Nouman945/Projects)
 
 # ⚙️ GitHub Analytics
 
