@@ -9,7 +9,7 @@
 * 🔭 Expanding my knowledge in DevOps.
 * 🧠 Working on improving my Data Structures and Algorithm.
 
-### 👨‍💻  ```Checkout my recent Projects [here](https://github.com/Nouman945/Projects)```
+### 👨‍💻  Checkout my recent Projects [here](https://github.com/Nouman945/Projects)
 
 # ⚙️ GitHub Analytics
 
