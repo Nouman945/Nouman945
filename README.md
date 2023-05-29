@@ -2,13 +2,14 @@
 
 ### I'm a Developer & Researcher!
 
-* 👨‍💻 Working & Advancing in Computer Vision & NLP.
+* 👨‍💻 Working & Advancing in Computer Vision, NLP & **MERN**.
 * 🌱 Competitive-coding and backend engineering.
-* 👯 Looking to colaborate with other content creators and developers.
+* 👯 Open for collaboration on Any kind of projects.
 * 📢 Love to teach and inspire.
-* 🔭 Expanding my knowledge in Data Engineering and DevOps.
+* 🔭 Expanding my knowledge in DevOps.
+* 🧠 Working on improving my Data Structures and Algorithm.
 
-## 👨‍💻  Checkout my recent Projects [here](https://github.com/Nouman945/Projects)
+### 👨‍💻  ```Checkout my recent Projects [here](https://github.com/Nouman945/Projects)```
 
 # ⚙️ GitHub Analytics
 
