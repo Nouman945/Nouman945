@@ -92,6 +92,11 @@
         <td align='center'>
         <img src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" >
     </td>
+        </td>
+        <td align='center'>
+        <img src="https://github.com/Nouman945/Nouman945/blob/main/Icons/strapi.png" >
+    </td>
+ 
   </tr>
 </table>
 
