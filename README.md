@@ -99,7 +99,7 @@
      </td>
         </td>
         <td align='center'>
-        <img src="https://github.com/Nouman945/Nouman945/blob/main/Icons/flask.png" >
+        <img src="https://github.com/Nouman945/Nouman945/blob/main/Icons/Pg.png" >
     </td>
 
   </tr>
