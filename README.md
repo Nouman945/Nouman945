@@ -96,7 +96,12 @@
         <td align='center'>
         <img src="https://github.com/Nouman945/Nouman945/blob/main/Icons/strapi.png" >
     </td>
- 
+     </td>
+        </td>
+        <td align='center'>
+        <img src="https://github.com/Nouman945/Nouman945/blob/main/Icons/flask.png" >
+    </td>
+
   </tr>
 </table>
 
