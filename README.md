@@ -62,7 +62,7 @@
           <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
       </td>
         <td align='center'>
-          <img src="https://github.com/Nouman945/Nouman945/blob/main/Icons/Vscode.png" width="60">
+          <img src="https://github.com/Nouman945/Nouman945/blob/main/Icons/visual-studio-code-icon.png" width="60">
       </td>
   </tr>
   <tr>
