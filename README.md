@@ -2,15 +2,15 @@
 
 ### I'm a Developer and Researcher!
 
-* 👨‍💻 Working & Advancing in Computer Vision, NLP ad **MERN** Stack.
-* ❤️ In Love with Django and reactjs.
-* 🌱 Competitive-coding and backend engineering.
-* 👯 Open for collaboration on Any kind of projects.
+* 👨‍💻 Working & Advancing in Computer Vision, NLP & **MERN** Stack.
+* ❤️ In Love with Django and Reactjs.
+* 🌱 Competitive coding and backend engineering.
+* 👯 Open for collaboration on Any kind of Project.
 * 📢 Love to teach and inspire.
 * 🔭 Expanding my knowledge in DevOps.
-* 🧠 Working on improving my Data Structures and Algorithm.
+* 🧠 Working on improving my Data Structures and algorithms.
 
-### 👨‍💻  Checkout the list of my recent Projects. [here](https://github.com/Nouman945/Projects)
+### 👨‍💻  Check out the list of my recent Projects. [here](https://github.com/Nouman945/Projects)
 
 # ⚙️ GitHub Analytics
 
