@@ -2,13 +2,12 @@
 
 ### I'm a Developer and Researcher!
 
-* 👨‍💻 Working & Advancing in Computer Vision, NLP & **MERN** Stack.
-* ❤️ In Love with Django and Reactjs.
+* 👨‍💻 Working & Advancing in Computer Vision, NLP & .
+* ❤️ Working with **MERN** Stack and Flask/Django.
 * 🌱 Competitive coding and backend engineering.
-* 👯 Open for collaboration on Any kind of Project.
+* 🔭 Expanding knowledge in DevOps.
+* 🧠 Working on improving Data Structures and algorithms.
 * 📢 Love to teach and inspire.
-* 🔭 Expanding my knowledge in DevOps.
-* 🧠 Working on improving my Data Structures and algorithms.
 
 ### 👨‍💻  Check out the list of my recent Projects. [here](https://github.com/Nouman945/Projects)
 
