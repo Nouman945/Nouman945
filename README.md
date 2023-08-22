@@ -2,7 +2,7 @@
 
 ### I'm a Developer and Researcher!
 
-* 👨‍💻 Working & Advancing in Computer Vision, NLP & .
+* 👨‍💻 Working & Advancing in Computer Vision & NLP.
 * ❤️ Working with **MERN** Stack and Flask/Django.
 * 🌱 Competitive coding and backend engineering.
 * 🔭 Expanding knowledge in DevOps.
