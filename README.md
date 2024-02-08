@@ -23,9 +23,15 @@
  -->
 <!-- </br> -->
 
-<a href="https://github.com/Nouman945">
+<!-- <a href="https://github.com/Nouman945">
   <img height="300" width="780" align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=algolia&https://github.com/DenverCoder1/github-readme-streak-stats" />
-</a>
+</a> -->
+
+<p align="center">
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Nouman945&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&hide_border=true" />
+</p>
+
 
 <h2><i>💻 Tech Stack</i></h2>
 
