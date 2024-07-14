@@ -4,7 +4,7 @@
 
 * 👨‍💻 Working & Advancing in Computer Vision and NLP.
 * 🔭 Expanding knowledge in DevOps.
-* ❤️ Working with **MERN** Stack and Flask/Django.
+* ❤️ Working with **Backend** with Flask/Django.
 * 🧠 Working on improving Data Structures and algorithms.
 * 📢 Love to teach and inspire.
 
