@@ -21,7 +21,7 @@
 
 <h2><i>💻 Tech Stack</i></h2>
 
-<table width="100%">
+<table width="100">
   <tr>
     <td align='center' width="20%">
       <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" width="60" alt="Python logo">
