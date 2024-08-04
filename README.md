@@ -1,27 +1,27 @@
-# Hi there, I'm Nouman Rasheed 👋
+# 👋 Hi there, I'm Nouman Rasheed
 
-### I'm a Developer and Researcher!
+## 👨‍💻 Developer | 🔬 Researcher | 📚 Lifelong Learner
 
-* 👨‍💻 Working & Advancing in Computer Vision and NLP.
-* 🔭 Expanding knowledge in DevOps.
-* ❤️ Working with **Backend** with Flask/Django.
-* 🧠 Working on improving Data Structures and algorithms.
-* 📢 Love to teach and inspire.
+### 🚀 About Me
 
-# ⚙️ GitHub Analytics
+I'm passionate about pushing the boundaries of technology and sharing knowledge. Here's what I'm up to:
 
+- 🖥️ Advancing in **Computer Vision** and **Natural Language Processing**
+- 🛠️ Expanding my skills in **DevOps**
+- 💻 Crafting robust **Backend** solutions with **Flask** and **Django**
+- 🧠 Continuously improving my **Data Structures and Algorithms**
+- 📢 Dedicated to teaching and inspiring others in tech
 
+### 📊 GitHub Analytics
 
 <p align="center">
-
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=merko&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=merko&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=merko&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=merko&hide_border=true" />
 </p>
 
+### 🛠️ Tech Stack
 
-<h2><i>💻 Tech Stack</i></h2>
-
-<table width="100">
+<table width="100%">
   <tr>
     <td align='center' width="20%">
       <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" width="60" alt="Python logo">
@@ -92,9 +92,25 @@
   </tr>
 </table>
 
-# 🤝🏻 Let's Connect
+### 🤝 Let's Connect
 
-<a href="mailto:muhmmadnouman945@gmail.com">![muhmmadnouman945@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/nouman-rasheed-5a003b157">![Nouman Rasheed](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.facebook.com/muhammad.nouman.92505956">![Nouman Rasheed](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-<a href="https://www.instagram.com/_nouman_r">![Nouman Rasheed](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<p align="center">
+  <a href="mailto:muhmmadnouman945@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/nouman-rasheed-5a003b157">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/muhammad.nouman.92505956">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/_nouman_r">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! Feel free to star ⭐ some of my repositories if you find them interesting.</i>
+</p>
