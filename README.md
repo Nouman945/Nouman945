@@ -10,23 +10,9 @@
 
 # ⚙️ GitHub Analytics
 
-<!-- <a href="https://github.com/Nouman945">
-  <img align="Center" width="420" src="https://github-readme-stats.vercel.app/api?username=Nouman945&show_icons=true&theme=algolia" />
-</a> -->
 
-<!-- <a href="https://github.com/Nouman945">
-  <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman945&theme=algolia&layout=compact&theme=algolia&langs_count=10&https://github.com/anuraghazra/github-readme-stats" />
-</a>
- -->
-<!-- </br> -->
-
-<!-- <a href="https://github.com/Nouman945">
-  <img height="300" width="780" align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=algolia&https://github.com/DenverCoder1/github-readme-streak-stats" />
-</a> -->
 
 <p align="center">
-  <!-- <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=algolia&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=algolia&hide_border=true" /> -->
 
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=merko&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
   <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=merko&hide_border=true" />
@@ -43,15 +29,17 @@
       <td align='center' width="190">
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
       </td>
+        <td align='center'>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
+    </td>
+    
      <td align='center'>
           <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
       </td>
       <td align='center' width="190">
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
       </td>
-       <td align='center' width="190">
-          <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
-      </td>
+
   </tr>
   <tr>
       <td align='center'>
@@ -88,13 +76,13 @@
       </td>
   </tr>
   <tr>
-      <td align='center'>
+    <td align='center'>
           <img width="100" src="https://templates.images.credential.net/16590187933301617801540872729153.png" >
-      </td>
-             <td align='center'>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
     </td>
-        <td align='center'>
+       <td align='center' width="190">
+          <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+      </td>
+    <td align='center'>
         <img src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" >
     </td>
         </td>
