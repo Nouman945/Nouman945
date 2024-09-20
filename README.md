@@ -6,7 +6,7 @@
 
 I'm passionate about pushing the boundaries of technology and sharing knowledge. Here's what I'm up to:
 
-- 🖥️ Advancing in **Computer Vision** and **Natural Language Processing**
+- 🖥️ Advancing in **Computer Vision**, **Gen AI** and **Natural Language Processing**
 - 🛠️ Expanding my skills in **DevOps**
 - 💻 Crafting robust **Backend** solutions with **Flask** and **Django**
 - 🧠 Continuously improving my **Data Structures and Algorithms**
