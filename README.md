@@ -19,16 +19,13 @@ tech_interests = {
 ```
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
-  <img width="48%" style="max-width: 495px;" src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=merko&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-  <img width="48%" style="max-width: 495px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=merko&hide_border=true" />
-</div>
+
 
 ## 📊 GitHub Statistics
 
 <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
-  <img height="180em" style="max-width: 495px;" src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub Statistics"/>
-  <img height="180em" style="max-width: 495px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=github-dark&hide_border=true"/>
+  <img width="48%" style="max-width: 495px;" src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=merko&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+  <img width="48%" style="max-width: 495px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=merko&hide_border=true" />
 </div>
 
 ## 🛠️ Technical Expertise
