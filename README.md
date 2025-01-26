@@ -1,7 +1,4 @@
-# <div align="center">👋 Hi there, I'm Nouman Rasheed</div>
-
-<div align="center">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200">
   <!-- Dark background -->
   <rect width="1000" height="200" fill="#1a1b1e" />
   
@@ -36,7 +33,6 @@
     Developer | Researcher | Innovator
   </text>
 </svg>
-</div>
 
 ## 🚀 About Me
 
