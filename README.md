@@ -6,34 +6,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate technologist dedicated to pushing the boundaries of what's possible in AI and software development. Visit my portfolio at [nouman-rasheed.com](https://nouman-rasheed.com/) to learn more about my work and projects.
-
-## 🔧 Technical Interests & Expertise
-
-<div align="center">
+I'm a passionate technologist dedicated to pushing the boundaries of what's possible in AI and software development. Currently focused on:
 
 ```python
-tech_portfolio = {
-    "🤖 AI & ML": {
-        "expertise": ["Computer Vision", "Generative AI", "Natural Language Processing"],
-        "focus": "Pushing boundaries in artificial intelligence",
-        "current_projects": "Research & Implementation"
-    },
-    "⚡ Backend": {
-        "frameworks": ["Flask", "Django", "FastAPI"],
-        "specialization": "RESTful APIs & System Architecture",
-        "approach": "Scalable & Efficient Solutions"
-    },
-    "🛠️ DevOps": {
-        "tools": ["Docker", "CI/CD Pipelines", "Cloud Infrastructure"],
-        "philosophy": "Automation & Reliability",
-        "goal": "Building robust, scalable systems"
-    },
-    "💻 Core Engineering": {
-        "fundamentals": ["Data Structures", "Algorithms", "System Design"],
-        "principles": "Clean Code & Best Practices",
-        "focus": "Performance Optimization"
-    }
+tech_interests = {
+    "AI & ML": ["Computer Vision", "Generative AI", "Natural Language Processing"],
+    "Backend": ["Flask", "Django", "RESTful APIs"],
+    "DevOps": ["Docker", "CI/CD", "Cloud Infrastructure"],
+    "Core": ["Data Structures", "Algorithms", "System Design"]
 }
 ```
 
@@ -43,6 +23,35 @@ tech_portfolio = {
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=merko&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=merko&hide_border=true" />
 </p>
+
+## 🚀 About Me
+
+I'm a passionate technologist dedicated to pushing the boundaries of what's possible in AI and software development. Currently focused on:
+
+```python
+tech_focus = {
+    "AI & ML": {
+        "areas": ["Computer Vision", "Generative AI", "NLP"],
+        "status": "Actively researching and implementing"
+    },
+    "Backend": {
+        "frameworks": ["Flask", "Django"],
+        "expertise": "RESTful APIs and System Architecture"
+    },
+    "DevOps": {
+        "tools": ["Docker", "CI/CD", "Cloud"],
+        "goal": "Building scalable, reliable systems"
+    }
+}
+```
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub Statistics"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=github-dark&hide_border=true"/>
+</div>
 
 ## 🛠️ Technical Expertise
 
@@ -86,9 +95,6 @@ tech_portfolio = {
   </a>
   <a href="https://www.instagram.com/_nouman_r">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://nouman-rasheed.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/>
   </a>
 </div>
 
