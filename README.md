@@ -1,119 +1,132 @@
-# <div align="center">
-
-<!-- Header SVG - Creates a stylized header with animated wave -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200">
-  <rect width="1000" height="200" fill="#1a1b1e" />
-  <g transform="translate(40, 70) scale(0.8)">
-    <text font-size="50">👋</text>
-    <animateTransform 
-      attributeName="transform"
-      type="rotate"
-      from="-10 60 70"
-      to="10 60 70"
-      dur="2s"
-      repeatCount="indefinite"
-      additive="sum" />
-  </g>
-  <text x="130" y="90" fill="white" font-family="Arial, sans-serif" font-size="48" font-weight="bold">
-    Hi there, I'm Nouman Rasheed
-  </text>
-  <defs>
-    <linearGradient id="subtitle-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4CAF50" />
-      <stop offset="50%" style="stop-color:#45a049" />
-      <stop offset="100%" style="stop-color:#388E3C" />
-    </linearGradient>
-  </defs>
-  <text x="40" y="150" fill="url(#subtitle-gradient)" font-family="'Courier New', monospace" font-size="32" letter-spacing="1">
-    Developer | Researcher | Innovator
-  </text>
-</svg>
-
-<!-- Dynamic typing effect -->
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Computer+Vision+%7C+Gen+AI+%7C+NLP;Always+learning%2C+always+growing" alt="Typing SVG" />
-</div>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Nouman+Rasheed;Software+Engineer+%26+AI+Researcher)](https://git.io/typing-svg)
+
+<a href="https://github.com/Nouman945">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/nouman-rasheed-5a003b157">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:muhmmadnouman945@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate technologist dedicated to pushing the boundaries of what's possible in AI and software development. Currently focused on:
+As a Software Engineer and AI Researcher, I specialize in developing innovative solutions at the intersection of artificial intelligence and software engineering. My work focuses on:
 
-```python
-tech_focus = {
-    "AI & ML": {
-        "areas": ["Computer Vision", "Generative AI", "NLP"],
-        "status": "Actively researching and implementing"
-    },
-    "Backend": {
-        "frameworks": ["Flask", "Django"],
-        "expertise": "RESTful APIs and System Architecture"
-    },
-    "DevOps": {
-        "tools": ["Docker", "CI/CD", "Cloud"],
-        "goal": "Building scalable, reliable systems"
-    }
-}
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nouman945&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&custom_title=GitHub%20Activity" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=transparent&hide_border=true" width="49%" />
+</div>
+
+## Expertise
+
+```mermaid
+mindmap
+  root((Technical Skills))
+    AI & Machine Learning
+      Computer Vision
+      Natural Language Processing
+      Generative AI
+      Deep Learning
+    Software Engineering
+      System Design
+      API Development
+      Cloud Architecture
+      DevOps
+    Programming
+      Python
+      JavaScript
+      C++
+      SQL
 ```
 
-## 📊 GitHub Statistics
+## Technical Stack
+
+<details>
+<summary>AI & Machine Learning</summary>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+</details>
+
+<details>
+<summary>Backend Development</summary>
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</details>
+
+<details>
+<summary>Frontend & UI</summary>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</details>
+
+<details>
+<summary>DevOps & Cloud</summary>
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</details>
+
+<details>
+<summary>Databases</summary>
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+## Featured Projects
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub Statistics"/>
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=github-dark&hide_border=true"/>
+
+<a href="https://github.com/Nouman945/YourRepoName">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Nouman945&repo=github-readme-stats&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/Nouman945/AnotherRepoName">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Nouman945&repo=github-readme-stats&theme=transparent&hide_border=true" />
+</a>
+
 </div>
 
-## 🛠️ Technical Expertise
+## Activity Overview
 
 <div align="center">
-
-### Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-### Database Systems
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nouman945&theme=transparent" width="100%" />
 </div>
 
-## 🤝 Connect With Me
-
 <div align="center">
-  <a href="mailto:muhmmadnouman945@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nouman-rasheed-5a003b157">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/_nouman_r">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nouman945&theme=transparent" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nouman945&theme=transparent" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nouman945&theme=transparent" width="32%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nouman945&color=brightgreen&style=flat-square" alt="Profile Views"/>
-  <br/><br/>
-  <i>Thanks for visiting! Feel free to ⭐ repositories you find interesting.</i>
+  <img src="https://komarev.com/ghpvc/?username=Nouman945&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </div>
