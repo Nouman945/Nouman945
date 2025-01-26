@@ -1,116 +1,76 @@
-# 👋 Hi there, I'm Nouman Rasheed
+# <div align="center">👋 Hi there, I'm Nouman Rasheed</div>
 
-## 👨‍💻 Developer | 🔬 Researcher | 📚 Lifelong Learner
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Developer+%7C+Researcher+%7C+Innovator;Computer+Vision+%7C+Gen+AI+%7C+NLP;Always+learning%2C+always+growing" alt="Typing SVG" />
+</div>
 
-### 🚀 About Me
+## 🚀 About Me
 
-I'm passionate about pushing the boundaries of technology and sharing knowledge. Here's what I'm up to:
+I'm a passionate technologist dedicated to pushing the boundaries of what's possible in AI and software development. Currently focused on:
 
-- 🖥️ Advancing in **Computer Vision**, **Gen AI** and **Natural Language Processing**
-- 🛠️ Expanding my skills in **DevOps**
-- 💻 Crafting robust **Backend** solutions with **Flask** and **Django**
-- 🧠 Continuously improving my **Data Structures and Algorithms**
-- 📢 Dedicated to teaching and inspiring others in tech
+```python
+tech_interests = {
+    "AI & ML": ["Computer Vision", "Generative AI", "Natural Language Processing"],
+    "Backend": ["Flask", "Django", "RESTful APIs"],
+    "DevOps": ["Docker", "CI/CD", "Cloud Infrastructure"],
+    "Core": ["Data Structures", "Algorithms", "System Design"]
+}
+```
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=merko&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=merko&hide_border=true" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&custom_title=Nouman's+GitHub+Statistics"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=github-dark&hide_border=true"/>
+</div>
 
-### 🛠️ Tech Stack
+## 🛠️ Technology Arsenal
 
-<table width="100">
-  <tr>
-    <td align='center' width="20%">
-      <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" width="60" alt="Python logo">
-    </td>
-    <td align='center' width="20%">
-      <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60" alt="JavaScript logo">
-    </td>
-    <td align='center' width="20%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png" width="120" alt="TensorFlow logo">
-    </td>
-    <td align='center' width="20%">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="120" alt="React logo">
-    </td>
-    <td align='center' width="20%">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++ logo">
-    </td>
-  </tr>
-  <tr>
-    <td align='center'>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="120" alt="Firebase logo">
-    </td>
-    <td align='center'>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="60" height="60" alt="HTML5 logo">
-    </td>
-    <td align='center'>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60" alt="CSS3 logo">
-    </td>
-    <td align='center'>
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" width="120" alt="Heroku logo">
-    </td>
-    <td align='center'>
-      <img src="https://github.com/Nouman945/Nouman945/blob/main/Icons/visual-studio-code-icon.png" width="60" alt="VS Code logo">
-    </td>
-  </tr>
-  <tr>
-    <td align='center'>
-      <img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" width="120" alt="Docker logo">
-    </td>
-    <td align='center'>
-      <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="120" alt="MySQL logo">
-    </td>
-    <td align='center'>
-      <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" width="120" alt="Microsoft Azure logo">
-    </td>
-    <td align='center'>
-      <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="120" alt="Django logo">
-    </td>
-    <td align='center'>
-      <img src="https://buttercms.com/static/images/tech_banners/Flask.png" width="120" alt="Flask logo">
-    </td>
-  </tr>
-  <tr>
-    <td align='center'>
-      <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="100" alt="Credential logo">
-    </td>
-    <td align='center'>
-      <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100" alt="Git logo">
-    </td>
-    <td align='center'>
-      <img src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" width="120" alt="Docker Zend logo">
-    </td>
-    <td align='center'>
-      <img src="https://github.com/Nouman945/Nouman945/blob/main/Icons/strapi.png" width="120" alt="Strapi logo">
-    </td>
-    <td align='center'>
-      <img src="https://github.com/Nouman945/Nouman945/blob/main/Icons/Pg.png" width="120" alt="PostgreSQL logo">
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-### 🤝 Let's Connect
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<p align="center">
+### AI & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
   <a href="mailto:muhmmadnouman945@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/nouman-rasheed-5a003b157">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.facebook.com/muhammad.nouman.92505956">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/_nouman_r">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>Thanks for visiting my profile! Feel free to star ⭐ some of my repositories if you find them interesting.</i>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nouman945&color=brightgreen" alt="Profile views"/>
+  <br/>
+  <i>Thanks for visiting! Feel free to star ⭐ repositories you find interesting.</i>
+</div>
