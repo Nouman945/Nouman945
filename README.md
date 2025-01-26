@@ -17,13 +17,12 @@ tech_interests = {
 }
 ```
 
-<!-- Dynamic typing effect -->
+</div>
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=merko&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman945&theme=merko&hide_border=true" />
 </p>
-
-</div>
 
 ## 🚀 About Me
 
