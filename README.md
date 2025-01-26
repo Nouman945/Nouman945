@@ -1,7 +1,41 @@
 # <div align="center">👋 Hi there, I'm Nouman Rasheed</div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Developer+%7C+Researcher+%7C+Innovator;Computer+Vision+%7C+Gen+AI+%7C+NLP;Always+learning%2C+always+growing" alt="Typing SVG" />
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200">
+  <!-- Dark background -->
+  <rect width="1000" height="200" fill="#1a1b1e" />
+  
+  <!-- Waving hand emoji with subtle animation -->
+  <g transform="translate(40, 70) scale(0.8)">
+    <text font-size="50">👋</text>
+    <animateTransform 
+      attributeName="transform"
+      type="rotate"
+      from="-10 60 70"
+      to="10 60 70"
+      dur="2s"
+      repeatCount="indefinite"
+      additive="sum" />
+  </g>
+
+  <!-- Main title -->
+  <text x="130" y="90" fill="white" font-family="Arial, sans-serif" font-size="48" font-weight="bold">
+    Hi there, I'm Nouman Rasheed
+  </text>
+
+  <!-- Subtitle text with monospace font and gradient -->
+  <defs>
+    <linearGradient id="subtitle-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4CAF50" />
+      <stop offset="50%" style="stop-color:#45a049" />
+      <stop offset="100%" style="stop-color:#388E3C" />
+    </linearGradient>
+  </defs>
+  
+  <text x="40" y="150" fill="url(#subtitle-gradient)" font-family="'Courier New', monospace" font-size="32" letter-spacing="1">
+    Developer | Researcher | Innovator
+  </text>
+</svg>
 </div>
 
 ## 🚀 About Me
