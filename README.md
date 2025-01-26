@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi there, I'm Nouman Rasheed</div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=25&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Developer+%7C+Researcher+%7C+Innovator;Computer+Vision+%7C+Gen+AI+%7C+NLP;Always+learning%2C+always+growing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=25&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Developer+%7C+Researcher;Computer+Vision+%7C+Gen+AI+%7C+NLP;Always+learning%2C+always+growing" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
