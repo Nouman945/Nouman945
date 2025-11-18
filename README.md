@@ -19,19 +19,19 @@ tech_interests = {
 ```
 </div>
 
-## 🧠 Featured Projects
+## 🔍 Featured Projects
 
-### 🔍 Irida – AI-Based Card Scanning & Retrieval System
+### Irida – AI-Based Card Scanning & Retrieval System
 - YOLO + UNet hybrid pipeline  
 - OCR + CLIP embeddings + Vector Search  
 - Deployed on cloud with FastAPI  
 
-### ✍ Handwriting Synthesis Model (MDN + Transformer)
+### Handwriting Synthesis Model (MDN + Transformer)
 - Few-shot style transfer  
 - Visualization of learned embeddings  
 - TensorFlow 2.x upgrade of legacy architecture  
 
-### 📡 Telecom Port Detection & Layout Mapping
+### Telecom Port Detection & Layout Mapping
 - YOLOv11 ONNX + geometric interpolation  
 - Auto-assign port names using layout JSON  
 - Achieved 97% mapping accuracy  
