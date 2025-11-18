@@ -25,6 +25,9 @@ tech_interests = {
   <img width="48%" style="max-width: 495px;" src="https://streak-stats.demolab.com/?user=Nouman945&theme=merko&hide_border=true" />
 </div>
 
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nouman945&theme=dark_lover&margin-w=10&row=1" />
 
 ## 🛠️ Technical Expertise
 
