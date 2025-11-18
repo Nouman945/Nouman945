@@ -19,24 +19,6 @@ tech_interests = {
 ```
 </div>
 
-## 🔍 Featured Projects
-
-### Irida – AI-Based Card Scanning & Retrieval System
-- YOLO + UNet hybrid pipeline  
-- OCR + CLIP embeddings + Vector Search  
-- Deployed on cloud with FastAPI  
-
-### Handwriting Synthesis Model (MDN + Transformer)
-- Few-shot style transfer  
-- Visualization of learned embeddings  
-- TensorFlow 2.x upgrade of legacy architecture  
-
-### Telecom Port Detection & Layout Mapping
-- YOLOv11 ONNX + geometric interpolation  
-- Auto-assign port names using layout JSON  
-- Achieved 97% mapping accuracy  
-
-
 ## 📊 GitHub Statistics
 <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
   <img width="48%" style="max-width: 495px;" src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=merko&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
