@@ -20,9 +20,11 @@ tech_interests = {
 </div>
 
 ## 📊 GitHub Statistics
-<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;"> 
-    <img width="48%" style="max-width: 495px;" src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=merko&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub stats for Nouman945" /> 
-    <img width="48%" height="30%" style="max-width: 495px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman945&layout=compact&theme=merko&langs_count=8&hide_border=true" alt="GitHub Streak for Nouman945" /> </div>
+<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=merko&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman945&layout=compact&theme=merko&langs_count=8&hide_border=true" />
+</div>
+
 
 ## 🛠️ Technical Expertise
 
