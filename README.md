@@ -23,6 +23,7 @@ tech_interests = {
 <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
   <img width="48%" style="max-width: 495px;" src="https://github-readme-stats.vercel.app/api?username=Nouman945&theme=merko&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
   <img width="48%" style="max-width: 495px;" src="https://streak-stats.demolab.com/?user=Nouman945&theme=dark" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nouman945&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ## 🛠️ Technical Expertise
